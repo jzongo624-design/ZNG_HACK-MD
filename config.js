@@ -1,4 +1,5 @@
 require('dotenv').config();
+global.gemini_key = process.env.GEMINI_KEY;
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
