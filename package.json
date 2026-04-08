@@ -79,3 +79,7 @@
     "node": ">=18.0.0"
   }
 }
+"dependencies": {
+  "nom-d-une-autre-lib": "^1.0.0",
+  "@google/generative-ai": "^0.1.0"
+}
